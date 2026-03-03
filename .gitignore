@@ -1,4 +1,4 @@
-data/
+data/*.parquet
 catboost_info/
 __pycache__/
 .idea/
